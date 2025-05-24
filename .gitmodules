@@ -1,0 +1,4 @@
+[submodule "common"]
+	path = common
+	url = https://github.com/proteus-University-of-Seville/profile-madeja-common.git
+	branch = main
